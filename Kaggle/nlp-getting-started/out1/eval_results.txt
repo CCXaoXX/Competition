@@ -1,0 +1,8 @@
+F1 = nan
+eval_accuracy = 1.0
+eval_auc = 0.99999905
+eval_loss = 0.06830923
+global_step = 713
+loss = 0.06830923
+precision = 0.0
+recall = 0.0
